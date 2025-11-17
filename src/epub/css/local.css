@@ -35,6 +35,10 @@ section[epub|type~="dedication"] > *{
 }
 /* End centered dedications */
 
-section[epub|type~="dedication"] p > span{
-	text-transform: uppercase;
+section[epub|type~="dedication"] p{
+	font-style: italic;
+}
+
+section[epub|type~="dedication"] p b{
+	font-style: normal;
 }
