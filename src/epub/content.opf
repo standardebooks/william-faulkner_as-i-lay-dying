@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/william-faulkner/as-i-lay-dying</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-01-01T16:00:44Z</dc:date>
+		<meta property="dcterms:modified">2026-01-01T16:00:44Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,17 +43,19 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">35</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">55</meta>
 		<dc:description id="description">After a woman in rural Mississippi dies, her husband and five children begin an arduous journey to convey her coffin back to her hometown.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;As I Lay Dying&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/william-faulkner"&gt;William Faulkner’s&lt;/a&gt; fifth novel, on which he began to work at the end of October 1929, just a few weeks after the publication of &lt;a href="https://standardebooks.org/ebooks/william-faulkner/the-sound-and-the-fury"&gt;&lt;i&gt;The Sound and the Fury&lt;/i&gt;&lt;/a&gt;. At that time Faulkner had taken a job at the coal power plant of the University of Mississippi and wrote the novel during his night shifts there, over only forty-seven days. Though not initially a bestseller, the book was well received by critics and has since been viewed as a cornerstone of both his oeuvre and American modernism.&lt;/p&gt;
-			&lt;p&gt;According to the contemporary critic Julia K. W. Baker, &lt;i&gt;As I Lay Dying&lt;/i&gt; is a companion piece but also “in construction and technique, an advance beyond” &lt;i&gt;The Sound and the Fury&lt;/i&gt;. Both novels concern dysfunctional families in the fictional Yoknapatawpha county in Mississippi. The title of the novel is again a literary allusion, this time to a speech of the ghost of Agamemnon in Book 11 of Homer’s &lt;a href="https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant"&gt;&lt;i&gt;Odyssey&lt;/i&gt;&lt;/a&gt;. Through fifty-nine interior monologues delivered by fifteen narrators, &lt;i&gt;As I Lay Dying&lt;/i&gt; recounts the death of a mother of five, Addie Bundren, and the journey of her husband and children as they convey her coffin to her home town. Apart from death, the novel’s themes include religion, infidelity, and family secrets.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;As I Lay Dying&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/william-faulkner"&gt;William Faulkner’s&lt;/a&gt; fifth novel, on which he began to work at the end of October 1929, just a few weeks after the publication of &lt;a href="https://standardebooks.org/ebooks/william-faulkner/the-sound-and-the-fury"&gt;&lt;i&gt;The Sound and the Fury&lt;/i&gt;&lt;/a&gt;. At that time Faulkner had taken a job at the University of Mississippi power plant and wrote the novel during his night shifts there, over a period of only forty-seven days. Though not initially a bestseller, the book was well received by critics. It has since come to be viewed as a cornerstone of both his oeuvre and American modernism, and is consistently listed as one of the best novels of the 20th century.&lt;/p&gt;
+			&lt;p&gt;According to the critic Julia K. W. Baker, &lt;i&gt;As I Lay Dying&lt;/i&gt; is a companion piece but also “in construction and technique, an advance beyond” &lt;i&gt;The Sound and the Fury&lt;/i&gt;. Both novels concern dysfunctional families in the fictional Mississippi county of Yoknapatawpha. The title of the novel is again a literary allusion, this time to a speech of the ghost of Agamemnon in Book XI of &lt;a href="https://standardebooks.org/ebooks/homer"&gt;Homer’s&lt;/a&gt; &lt;a href="https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant"&gt;&lt;i&gt;Odyssey&lt;/i&gt;&lt;/a&gt;. Through fifty-nine interior monologues delivered by fifteen narrators, &lt;i&gt;As I Lay Dying&lt;/i&gt; recounts the death of a mother of five, Addie Bundren, and the journey of her husband and children as they convey her coffin to her hometown. Apart from death, the novel’s themes include religion, infidelity, and family secrets.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20171024</dc:source>
 		<dc:source>https://archive.org/details/dli.ernet.285658</dc:source>
-		<meta property="se:production-notes">Faded Page used the first British edition, published by Chatto and Windus in 1935. This production compared against the Vintage edition with copyright 1930.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">58377</meta>
+		<meta property="se:reading-ease.flesch">92.32</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/As_I_Lay_Dying</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-faulkner_as-i-lay-dying</meta>
 		<dc:creator id="author">William Faulkner</dc:creator>
@@ -86,6 +88,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
