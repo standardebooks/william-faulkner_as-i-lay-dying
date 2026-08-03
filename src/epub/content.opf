@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/william-faulkner/as-i-lay-dying</dc:identifier>
 		<dc:date>2026-01-01T16:00:44Z</dc:date>
@@ -50,11 +50,11 @@
 		<meta id="collection-3" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">52</meta>
-		<dc:description id="description">After a woman in rural Mississippi dies, her husband and five children begin an arduous journey to convey her coffin back to her hometown.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>After a woman in rural Mississippi dies, her husband and five children begin an arduous journey to convey her coffin back to her hometown.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;As I Lay Dying&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/william-faulkner"&gt;William Faulkner’s&lt;/a&gt; fifth novel, on which he began to work at the end of October 1929, just a few weeks after the publication of &lt;a href="https://standardebooks.org/ebooks/william-faulkner/the-sound-and-the-fury"&gt;&lt;i&gt;The Sound and the Fury&lt;/i&gt;&lt;/a&gt;. At that time Faulkner had taken a job at the University of Mississippi power plant and wrote the novel during his night shifts there, over a period of only forty-seven days. Though not initially a bestseller, the book was well received by critics. It has since come to be viewed as a cornerstone of both his oeuvre and American modernism, and is consistently listed as one of the best novels of the 20th century.&lt;/p&gt;
 			&lt;p&gt;According to the critic Julia K. W. Baker, &lt;i&gt;As I Lay Dying&lt;/i&gt; is a companion piece but also “in construction and technique, an advance beyond” &lt;i&gt;The Sound and the Fury&lt;/i&gt;. Both novels concern dysfunctional families in the fictional Mississippi county of Yoknapatawpha. The title of the novel is again a literary allusion, this time to a speech of the ghost of Agamemnon in Book XI of &lt;a href="https://standardebooks.org/ebooks/homer"&gt;Homer’s&lt;/a&gt; &lt;a href="https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant"&gt;&lt;i&gt;Odyssey&lt;/i&gt;&lt;/a&gt;. Through fifty-nine interior monologues delivered by fifteen narrators, &lt;i&gt;As I Lay Dying&lt;/i&gt; recounts the death of a mother of five, Addie Bundren, and the journey of her husband and children as they convey her coffin to her hometown. Apart from death, the novel’s themes include religion, infidelity, and family secrets.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20171024</dc:source>
 		<dc:source>https://archive.org/details/dli.ernet.285658</dc:source>
