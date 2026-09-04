@@ -31,9 +31,9 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">As I Lay Dying</dc:title>
 		<meta property="file-as" refines="#title">As I Lay Dying</meta>
-		<dc:subject id="subject-1">Mississippi -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Burial -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Death -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Mississippi--Fiction</dc:subject>
+		<dc:subject id="subject-2">Burial--Fiction</dc:subject>
+		<dc:subject id="subject-3">Death--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008107229</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
